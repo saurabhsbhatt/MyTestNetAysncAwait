@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyTestNetAysncAwait")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+201ab055e2d3348e576eb782f67cb6f7b8c0210c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyTestNetAysncAwait")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyTestNetAysncAwait")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

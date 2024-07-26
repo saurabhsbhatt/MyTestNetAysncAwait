@@ -12,3 +12,4 @@ D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\refint\MyTes
 D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.pdb
 D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.genruntimeconfig.cache
 D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\ref\MyTestNetAysncAwait.dll
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.sourcelink.json
