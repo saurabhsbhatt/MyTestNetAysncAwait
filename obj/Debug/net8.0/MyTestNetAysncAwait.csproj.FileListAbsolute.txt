@@ -1,0 +1,14 @@
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\bin\Debug\net8.0\MyTestNetAysncAwait.exe
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\bin\Debug\net8.0\MyTestNetAysncAwait.deps.json
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\bin\Debug\net8.0\MyTestNetAysncAwait.runtimeconfig.json
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\bin\Debug\net8.0\MyTestNetAysncAwait.dll
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\bin\Debug\net8.0\MyTestNetAysncAwait.pdb
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.AssemblyInfoInputs.cache
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.AssemblyInfo.cs
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.csproj.CoreCompileInputs.cache
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.dll
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\refint\MyTestNetAysncAwait.dll
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.pdb
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\MyTestNetAysncAwait.genruntimeconfig.cache
+D:\DATA\MyTestFolder\MyGitWork\MyTestNetAysncAwait\obj\Debug\net8.0\ref\MyTestNetAysncAwait.dll
